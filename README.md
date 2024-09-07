@@ -37,4 +37,6 @@ We welcome contributions to CalMap! If you have suggestions or find bugs, please
 
 
 CalMap is designed to be smooth and efficient, making it a handy tool for anyone navigating the Berkeley area. We'd love for you to check it out and hear your thoughts!
+
+Demo Link: https://www.linkedin.com/posts/zhuoyuan-cao_calmap-california-techproject-activity-7234923554901757952-zc-g?utm_source=share&utm_medium=member_desktop
 #CalMap #Berkeley #MappingProject #OpenSource
