@@ -4,26 +4,35 @@ CalMap is a lightweight alternative to Google Maps, specifically designed for na
 🌟 Key Features
 
 Smooth Zoom: Effortlessly zoom in and out to explore every detail of the Berkeley area.
+
 Location Search: Easily find any spot around the Berkeley region.
+
 Fastest Path Planning: Get quick and efficient routing to your destination.
+
 Responsive Design: Enjoy a seamless experience across different devices and screen sizes.
 
 🚀 Technical Implementation
 CalMap is built using a combination of front-end and back-end technologies:
 
 Front-end: HTML, CSS, JavaScript with jQuery for dynamic interactions
+
 Back-end: Java with Spark framework for handling API requests
+
 Data Structure: Custom graph implementation for efficient route calculation
+
 Map Rendering: Tile-based system for smooth and quick map display
 
 🛠 Project Structure
 
 bearmaps/: Core mapping and routing algorithms
+
 static/: Front-end resources (HTML, CSS, JavaScript)
+
 server/: Back-end API handlers
 
 
 🤝 Contributing
+
 We welcome contributions to CalMap! If you have suggestions or find bugs, please open an issue or submit a pull request.
 
 
