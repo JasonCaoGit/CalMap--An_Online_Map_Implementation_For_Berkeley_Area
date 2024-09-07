@@ -1,5 +1,6 @@
 CalMap: Navigation Made Easy
 CalMap is a lightweight alternative to Google Maps, specifically designed for navigating the in California area. Our goal is to provide a smooth, efficient mapping experience for both locals and visitors.
+
 🌟 Key Features
 
 Smooth Zoom: Effortlessly zoom in and out to explore every detail of the Berkeley area.
